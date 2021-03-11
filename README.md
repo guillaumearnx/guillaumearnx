@@ -25,8 +25,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/garnoux" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="garnoux" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18725997" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="18725997" height="30" width="40" /></a>
+<a href="https://dev.to/guillaumearnx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="garnoux" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13652668" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="18725997" height="30" width="40" /></a>
 <a href="https://instagram.com/guillaumearnx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="guillaumearnx" height="30" width="40" /></a>
 <a href="https://discord.gg/RAyg6cmv4h" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="RAyg6cmv4h" height="30" width="40" /></a>
 </p>
