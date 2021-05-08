@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guillaumearnx" alt="guillaumearnx" /></a> </p>
 
-- 🔭 Je travaille actuellement chez [LPDL](https://www.lespriosdulycee.live/)
+- 🔭 Retrouvez moi [ici](https://garnx.fr/)
 
 - 🌱 Je suis actuellement en première année à **l'IUT Nancy-Charlemagne**
 
 - 👯 Je développe pour [LPDLGames](http://play.lespriosdulycee.live/)
 
-- 🤝 J'offre mon aide sur [Discord](https://discordhub.com/profile/629786143906594828)
+- 🤝 J'offre mon aide sur [Discord](https://discord.gg/BrE65m6tKc)
 
 - 💬 Je suis ouvert à toutes vos **questions**
 
-- 📫 Vous pouvez me contacter ici **garnoux@protonmail.com**
+- 📫 Vous pouvez me contacter ici **garnoux@pm.me**
 
 - ⚡ Fun fact **I'm an electrician**
 
