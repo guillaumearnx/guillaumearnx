@@ -9,8 +9,6 @@
 
 - 🌱 Je suis actuellement en première année à **l'IUT Nancy-Charlemagne**
 
-- 👯 Je développe pour [LPDLGames](http://play.lespriosdulycee.live/)
-
 - 🤝 J'offre mon aide sur [Discord](https://discord.gg/BrE65m6tKc)
 
 - 💬 Je suis ouvert à toutes vos **questions**
