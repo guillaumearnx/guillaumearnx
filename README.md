@@ -9,7 +9,7 @@
 
 - 🌱 Je suis actuellement en première année à **l'IUT Nancy-Charlemagne**
 
-- 🤝 J'offre mon aide sur [Discord](https://discord.gg/BrE65m6tKc)
+- 🤝 J'offre mon aide sur [Discord](https://discord.gg/THZpXCKvpB)
 
 - 💬 Je suis ouvert à toutes vos **questions**
 
