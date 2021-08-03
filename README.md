@@ -25,8 +25,8 @@
 <p align="left">
 <a href="https://dev.to/guillaumearnx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="garnoux" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13652668" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="18725997" height="30" width="40" /></a>
-<a href="https://instagram.com/guillaumearnx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="guillaumearnx" height="30" width="40" /></a>
-<a href="https://discordhub.com/profile/629786143906594828" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="RAyg6cmv4h" height="30" width="40" /></a>
+<a href="https://instagram.com/guillaumearnx" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Instagram_icon-icons.com_66804.png" alt="guillaumearnx" height="30" width="40" /></a>
+<a href="https://discord.com/users/629786143906594828" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png" alt="RAyg6cmv4h" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
