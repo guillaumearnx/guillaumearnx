@@ -8,11 +8,11 @@
 - 📫 Contact me at [**garnoux@pm.me**](mailto:garnoux@pm.me)
 - ⚡ Fun fact **I'm an electrician**
 
-<div>
-<a href="https://github.com/guillaumearnx/guigzbot"><img alt="guigzbot" src="https://github-readme-stats.vercel.app/api/pin/?username=guillaumearnx&repo=guigzbot&theme=dark&icon_color=a" height="130"></a>
-<a href="https://github.com/guillaumearnx/JavaNo"><img alt="javano" src="https://github-readme-stats.vercel.app/api/pin/?username=guillaumearnx&repo=javano&theme=dark&icon_color=a" height="130"></a>
-<a href="https://github.com/arnoux23u-IUTNC/2021_COO_Zeldiablo"><img alt="zeldiablo" src="https://github-readme-stats.vercel.app/api/pin/?username=arnoux23u-IUTNC&repo=2021_COO_Zeldiablo&theme=dark&icon_color=a" height="130"></a>
-<a href="https://github.com/arnoux23u-IUTNC/Presque_24h_des_IUTs_2021"><img alt="repo4" src="https://github-readme-stats.vercel.app/api/pin/?username=arnoux23u-IUTNC&repo=Presque_24h_des_IUTs_2021&theme=dark&icon_color=a" height="130"></a>
+<div style="display: grid;grid-template-columns: repeat(2,450px)">
+<a href="https://github.com/guillaumearnx/guigzbot"><img alt="guigzbot" src="https://github-readme-stats.vercel.app/api/pin/?username=guillaumearnx&repo=guigzbot&theme=dark&icon_color=a" width="400" height="140"></a>
+<a href="https://github.com/guillaumearnx/JavaNo"><img alt="javano" src="https://github-readme-stats.vercel.app/api/pin/?username=guillaumearnx&repo=javano&theme=dark&icon_color=a" width="400" height="140"></a>
+<a href="https://github.com/arnoux23u-IUTNC/2021_COO_Zeldiablo"><img alt="zeldiablo" src="https://github-readme-stats.vercel.app/api/pin/?username=arnoux23u-IUTNC&repo=2021_COO_Zeldiablo&theme=dark&icon_color=a" width="400" height="140"></a>
+<a href="https://github.com/arnoux23u-IUTNC/Presque_24h_des_IUTs_2021"><img alt="repo4" src="https://github-readme-stats.vercel.app/api/pin/?username=arnoux23u-IUTNC&repo=Presque_24h_des_IUTs_2021&theme=dark&icon_color=a" width="400" height="140"></a>
 </div>
 
 <h3>Follow Me :</h3>
