@@ -42,10 +42,10 @@
 </p>
 
 <div style="display: flex; justify-content: center;padding: 20px 0">
-    <img alt="globalstats" style="padding:0 20px" src="https://github-readme-stats.vercel.app/api?username=guillaumearnx&show_icons=true&count_private=true&include_all_commits=true&theme=dark&icon_color=a">
-    <img alt=languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillaumearnx&layout=compact&theme=dark">
+    <img alt="globalstats" style="padding:0 20px" src="https://github-readme-stats.vercel.app/api?username=guillaumearnx&show_icons=true&count_private=true&include_all_commits=true&theme=dark&icon_color=a" width="400">
+    <img alt=languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillaumearnx&layout=compact&theme=dark" width="400">
 </div>
 <div style="display: flex; justify-content: center;padding: 20px 0">
-<img style="padding:0 20px" alt="walktime" src="https://github-readme-stats.vercel.app/api/wakatime?username=guillaumearnx&cache_seconds=1800&custom_title=Coding Time&theme=dark&title_color=a">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=guillaumearnx&theme=dark" alt="guillaumearnx"/>
+<img style="padding:0 20px" alt="walktime" src="https://github-readme-stats.vercel.app/api/wakatime?username=guillaumearnx&cache_seconds=1800&custom_title=Coding Time&theme=dark&title_color=a" width="400">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=guillaumearnx&theme=dark" alt="guillaumearnx" width="400"/>
 </div>
