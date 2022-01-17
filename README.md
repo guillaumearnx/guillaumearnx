@@ -41,6 +41,6 @@
     <img alt="languages" src="https://github-readme-stats-garnx.vercel.app/api/top-langs/?username=guillaumearnx&langs_count=10&layout=compact&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&count_private=true" height="180">
 </div>
 <div style="display: flex; justify-content: center;padding: 20px 0">
-<img style="padding:0 20px" alt="walktime" src="https://github-readme-stats.vercel.app/api/wakatime?username=guillaumearnx&langs_count=5&cache_seconds=1800&custom_title=Coding Time&theme=dark&title_color=a" width="420">
+<img style="padding:0 20px" alt="walktime" src="https://github-readme-stats.vercel.app/api/wakatime?username=guillaumearnx&langs_count=5&cache_seconds=1800&custom_title=Coding Time&theme=dark&title_color=a&range=last_7_days" width="420">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=guillaumearnx&theme=dark" alt="guillaumearnx" width="420"/>
 </div>
