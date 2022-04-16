@@ -9,7 +9,7 @@
 - ⚡ Fun fact **I'm an electrician**
 
 <div style="display: grid;grid-template-columns: repeat(2,450px)">
-<a href="https://github.com/arnoux23u-IUTNC/CharleMiApp"><img alt="zeldiablo" src="https://github-readme-stats.vercel.app/api/pin/?username=arnoux23u-IUTNC&repo=CharleMiApp&theme=dark&icon_color=a" width="400" height="140"></a>
+<a href="https://github.com/arnoux23u-IUTNC/CharleMiApp"><img alt="zeldiablo" src="https://github-readme-stats.vercel.app/api/pin/?username=arnoux23u-IUTNC&repo=CharleMiApp&theme=dark&icon_color=b" width="400" height="140"></a>
 <a href="https://github.com/arnoux23u-IUTNC/MyWishList"><img alt="mywishlist" src="https://github-readme-stats.vercel.app/api/pin/?username=arnoux23u-IUTNC&repo=MyWishList&theme=dark&icon_color=a" width="400" height="140"></a>
 <a href="https://github.com/guillaumearnx/guigzbot"><img alt="guigzbot" src="https://github-readme-stats.vercel.app/api/pin/?username=guillaumearnx&repo=guigzbot&theme=dark&icon_color=a" width="400" height="140"></a>
 <a href="https://github.com/guillaumearnx/JavaNo"><img alt="javano" src="https://github-readme-stats.vercel.app/api/pin/?username=guillaumearnx&repo=javano&theme=dark&icon_color=a" width="400" height="140"></a>
