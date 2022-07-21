@@ -6,7 +6,7 @@
 - 📚 I am a second year student at [**IUT Nancy-Charlemagne**](https://iut-charlemagne.univ-lorraine.fr/)
 - 🤝 Contact me on [Discord](https://discord.gg/THZpXCKvpB) if you need any help
 - 📫 Contact me at [**garnoux@pm.me**](mailto:garnoux@pm.me)
-- ⚡ Fun fact **I'm an electrician**
+- ⚡ Fun fact **I'm an electrician and auto mechanic**
 
 <div style="display: grid;grid-template-columns: repeat(2,450px)">
 <a href="https://github.com/arnoux23u-IUTNC/CharleMiApp"><img alt="zeldiablo" src="https://github-readme-stats.vercel.app/api/pin/?username=arnoux23u-IUTNC&repo=CharleMiApp&theme=dark&icon_color=b" width="400" height="140"></a>
