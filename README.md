@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=guillaumearnx&label=Visitors&color=009dff&style=flat" alt="guillaumearnx"/></p>
 
 - 🔭 Find me [here](https://garnx.fr/)
-- 📚 I am a second year student at [**IUT Nancy-Charlemagne**](https://iut-charlemagne.univ-lorraine.fr/)
+- 📚 I am a student engineer at [**CESI**](https://www.cesi.fr//)
 - 🤝 Contact me on [Discord](https://discord.gg/THZpXCKvpB) if you need any help
 - 📫 Contact me at [**garnoux@pm.me**](mailto:garnoux@pm.me)
 - ⚡ Fun fact **I'm an electrician** and **auto mechanic**
