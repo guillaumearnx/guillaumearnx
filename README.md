@@ -9,10 +9,10 @@
 - ⚡ Fun fact **I'm an electrician** and **auto mechanic**
 
 <div style="display: grid;grid-template-columns: repeat(2,450px)">
-<a href="https://github.com/arnoux23u-IUTNC/CharleMiApp"><img alt="zeldiablo" src="https://github-readme-stats.vercel.app/api/pin/?username=arnoux23u-IUTNC&repo=CharleMiApp&theme=dark&icon_color=b" width="400" height="140"></a>
-<a href="https://github.com/arnoux23u-IUTNC/MyWishList"><img alt="mywishlist" src="https://github-readme-stats.vercel.app/api/pin/?username=arnoux23u-IUTNC&repo=MyWishList&theme=dark&icon_color=a" width="400" height="140"></a>
-<a href="https://github.com/guillaumearnx/guigzbot"><img alt="guigzbot" src="https://github-readme-stats.vercel.app/api/pin/?username=guillaumearnx&repo=guigzbot&theme=dark&icon_color=a" width="400" height="140"></a>
-<a href="https://github.com/guillaumearnx/JavaNo"><img alt="javano" src="https://github-readme-stats.vercel.app/api/pin/?username=guillaumearnx&repo=javano&theme=dark&icon_color=a" width="400" height="140"></a>
+<a href="https://github.com/arnoux23u-IUTNC/CharleMiApp"><img alt="zeldiablo" src="https://garnx.vercel.app/api/pin/?username=arnoux23u-IUTNC&repo=CharleMiApp&theme=dark&icon_color=b" width="400" height="140"></a>
+<a href="https://github.com/arnoux23u-IUTNC/MyWishList"><img alt="mywishlist" src="https://garnx.vercel.app/api/pin/?username=arnoux23u-IUTNC&repo=MyWishList&theme=dark&icon_color=a" width="400" height="140"></a>
+<a href="https://github.com/guillaumearnx/guigzbot"><img alt="guigzbot" src="https://garnx.vercel.app/api/pin/?username=guillaumearnx&repo=guigzbot&theme=dark&icon_color=a" width="400" height="140"></a>
+<a href="https://github.com/guillaumearnx/JavaNo"><img alt="javano" src="https://garnx.vercel.app/api/pin/?username=guillaumearnx&repo=javano&theme=dark&icon_color=a" width="400" height="140"></a>
 </div>
 
 ## Languages and technologies
@@ -41,10 +41,10 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 <div style="display: flex; justify-content: center;padding: 20px 0">
-    <img alt="globalstats" style="padding:0 20px" src="https://github-readme-stats.vercel.app/api?username=guillaumearnx&show_icons=true&count_private=true&include_all_commits=true&theme=dark&icon_color=a" height="180">
-    <img alt="languages" src="https://github-readme-stats-garnx.vercel.app/api/top-langs/?username=guillaumearnx&langs_count=10&layout=compact&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&count_private=true" height="180">
+    <img alt="globalstats" style="padding:0 20px" src="https://garnx.vercel.app/api?username=guillaumearnx&show_icons=true&count_private=true&include_all_commits=true&theme=dark&icon_color=a" height="180">
+    <img alt="languages" src="https://garnx.vercel.app/api/top-langs/?username=guillaumearnx&langs_count=10&layout=compact&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&count_private=true" height="180">
 </div>
 <div style="display: flex; justify-content: center;padding: 20px 0">
-<img style="padding:0 20px" alt="wakatime" src="http://github-readme-stats.vercel.app/api/wakatime?username=guillaumearnx&langs_count=5&cache_seconds=1800&custom_title=Coding Time&theme=dark&title_color=a&range=last_7_days" width="420">
+<img style="padding:0 20px" alt="wakatime" src="http://garnx.vercel.app/api/wakatime?username=guillaumearnx&langs_count=10&custom_title=Coding Time&theme=dark&title_color=a" width="420">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=guillaumearnx&theme=dark" alt="guillaumearnx" width="420"/>
 </div>
